@@ -4,46 +4,51 @@
 
 ### Software Engineer
 
-Building scalable full-stack products from database to deployment.
+Building software that is scalable, maintainable, and designed for real-world use.
 
-<p>
-<a href="https://www.linkedin.com/in/daksh-vasala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vasaladaksh5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Daksh-Vasala"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-
-</p>
+<a href="https://www.linkedin.com/in/daksh-vasala/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vasaladaksh5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Daksh-Vasala">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## Building
+## About
 
-### 🏡 Stayora
+I'm a software engineer focused on building complete web applications—from designing database schemas and REST APIs to creating responsive user interfaces.
 
-A full-stack vacation rental marketplace focused on secure authentication, booking workflows, user roles, and scalable backend architecture.
-
-**Tech**
-
-Next.js • Node.js • Express.js • MongoDB • PostgreSQL • TypeScript
+I enjoy solving practical problems through software, with an emphasis on clean architecture, scalability, and user experience. My work spans backend engineering, API development, authentication, database design, and modern frontend development.
 
 ---
 
-### 🤖 CareerPilot AI *(In Progress)*
+# Featured Project
 
-An AI-powered career platform helping students plan careers, prepare for interviews, and track learning progress.
+## 🏡 Stayora — Full Stack Vacation Rental Marketplace
+
+Stayora is a production-style vacation rental platform inspired by modern marketplace applications. It was built to explore how large-scale booking platforms manage authentication, property listings, booking workflows, user roles, and secure backend services.
+
+### Highlights
+
+- Secure Authentication & Authorization
+- Property Listing & Search
+- Booking Workflow
+- RESTful API Architecture
+- Responsive User Interface
+- Role-Based Access Control
+- Scalable Database Design
 
 ---
 
-### 📱 Postify
+# Technologies
 
-A MERN social platform built to explore authentication, CRUD operations, REST APIs and responsive UI.
-
----
-
-# Tech Stack
-
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgres,ts,js,tailwind,git,github,postman,vscode" />
 
@@ -63,19 +68,10 @@ A MERN social platform built to explore authentication, CRUD operations, REST AP
 
 ---
 
-## Current Focus
+## Connect
 
-- Building production-ready software
-- Backend Engineering
-- System Design
-- AI-powered web applications
+📧 **Email**  
+**vasaladaksh5@gmail.com**
 
----
-
-## Contact
-
-📧 **Email:** vasaladaksh5@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/daksh-vasala/
-
-🌐 **Portfolio:** Coming Soon
+💼 **LinkedIn**  
+https://www.linkedin.com/in/daksh-vasala/
