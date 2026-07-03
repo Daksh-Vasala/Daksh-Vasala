@@ -4,8 +4,9 @@
 
 ### Software Engineer
 
-Building software that is scalable, maintainable, and designed for real-world use.
+Building scalable full-stack applications from database to deployment.
 
+<p>
 <a href="https://www.linkedin.com/in/daksh-vasala/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
@@ -16,15 +17,17 @@ Building software that is scalable, maintainable, and designed for real-world us
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 
+</p>
+
 </div>
 
 ---
 
-## About
+# About
 
-I'm a software engineer focused on building complete web applications—from designing database schemas and REST APIs to creating responsive user interfaces.
+I'm a software engineer focused on building complete web applications—from designing database schemas and backend APIs to delivering responsive user interfaces.
 
-I enjoy solving practical problems through software, with an emphasis on clean architecture, scalability, and user experience. My work spans backend engineering, API development, authentication, database design, and modern frontend development.
+Rather than building tutorial projects, I enjoy creating products that simulate real-world software systems. My primary interests are backend engineering, scalable architectures, authentication, database design, and modern web development.
 
 ---
 
@@ -32,17 +35,25 @@ I enjoy solving practical problems through software, with an emphasis on clean a
 
 ## 🏡 Stayora — Full Stack Vacation Rental Marketplace
 
-Stayora is a production-style vacation rental platform inspired by modern marketplace applications. It was built to explore how large-scale booking platforms manage authentication, property listings, booking workflows, user roles, and secure backend services.
+Stayora is a full-stack vacation rental marketplace inspired by modern booking platforms.
 
-### Highlights
+The project was built to understand how production applications handle secure authentication, user roles, booking workflows, property management, scalable backend services, and responsive user experiences.
 
-- Secure Authentication & Authorization
-- Property Listing & Search
-- Booking Workflow
-- RESTful API Architecture
-- Responsive User Interface
-- Role-Based Access Control
-- Scalable Database Design
+### Key Features
+
+- 🔐 Secure Authentication & Authorization
+- 🏠 Property Listings & Search
+- 📅 Booking Workflow
+- 👥 Role-Based Access Control
+- ⚡ RESTful API Architecture
+- 📱 Responsive Design
+- 🗄️ Scalable Database Design
+
+---
+
+## 📱 Postify
+
+A full-stack social media platform built with the MERN stack to explore authentication, CRUD operations, REST APIs, and responsive UI development.
 
 ---
 
@@ -50,28 +61,39 @@ Stayora is a production-style vacation rental platform inspired by modern market
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgres,ts,js,tailwind,git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgres,ts,js,tailwind,git,github,postman,vscode&perline=7"/>
 
 </p>
 
 ---
 
-# GitHub Analytics
+# Current Focus
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Daksh-Vasala&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-Vasala&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+- Building production-ready full-stack applications
+- Backend Engineering
+- System Design
+- Writing clean, maintainable code
 
 ---
 
-## Connect
+# Connect
 
-📧 **Email**  
+📧 **Email**
+
 **vasaladaksh5@gmail.com**
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/daksh-vasala/
+
+🐙 **GitHub**
+
+https://github.com/Daksh-Vasala
+
+---
+
+<div align="center">
+
+*"Good software isn't just code that works—it's software that scales, evolves, and solves real problems."*
+
+</div>
