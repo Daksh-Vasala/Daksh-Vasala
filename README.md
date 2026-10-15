@@ -4,12 +4,11 @@
 
 ### Full Stack Developer
 
-Building scalable, secure, and production-ready web applications.
+Building secure, scalable web applications with React, Node.js, and PostgreSQL/MongoDB.
 
 <p>
 <a href="https://portfolio-ivory-gamma-xs5vp4pxzi.vercel.app/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/daksh-vasala/">LinkedIn</a> •
-<a href="https://github.com/Daksh-Vasala">GitHub</a> •
 <a href="mailto:vasaladaksh5@gmail.com">Email</a>
 </p>
 
@@ -17,54 +16,50 @@ Building scalable, secure, and production-ready web applications.
 
 ---
 
-## 👋 About Me
+## About
 
-I'm a Full Stack Developer passionate about building real-world web applications with modern technologies. I enjoy working across the entire stack—from designing databases and REST APIs to creating clean, responsive user interfaces.
+Final-year Computer Engineering student who enjoys working across the whole stack: database design, REST APIs, authentication, and clean, responsive UIs.
 
-**Currently looking for:** Full Stack, Backend, Frontend, and SDE-1 opportunities.
-
----
-
-## 🚀 Featured Projects
-
-### 🏡 Stayora
-Production-style vacation rental marketplace inspired by Airbnb.
-
-**Highlights**
-- JWT Authentication
-- Role-Based Access Control
-- Property Listings & Booking
-- REST APIs
-- Responsive UI
-- MongoDB Database Design
+**Open to:** Full Stack, Backend, and SDE-1 roles.
 
 ---
 
-### 📱 Postify
-Full-stack social media application built with the MERN stack.
+## Featured Projects
 
-- Authentication
-- CRUD Operations
-- REST APIs
-- Responsive Design
+### [Career Pilot](https://github.com/Daksh-Vasala/career-pilot)
+<!-- TODO: one-line pitch, e.g. what problem it solves and what the AI does -->
+- <!-- TODO: key AI feature -->
+- <!-- TODO: key product feature -->
+- <!-- TODO: auth / data layer -->
+
+`<!-- TODO: stack -->` · [Live Demo](<!-- TODO: link -->)
+
+### [Stayora](https://github.com/Daksh-Vasala/Stayora)
+Multi-role rental platform for Guests, Hosts, and Admins with a full reservation lifecycle.
+- Role-based access control across three dashboards
+- Conflict-free reservation engine with availability validation
+- Chat limited to active reservation participants
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` · [Live Demo](https://stayora-frontend.onrender.com/)
+
+### [Scatch](https://github.com/Daksh-Vasala/Scatch)
+Full-stack e-commerce platform covering the complete purchase flow.
+- JWT authentication with separate user and admin roles
+- Cart, product filtering, and order processing over REST APIs
+- Input validation and error handling across auth, product, and order endpoints
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgres,ts,js,tailwind,git,github,postman,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgres,ts,js,tailwind,git,github,postman&perline=6"/>
 </p>
 
 ---
 
-## 🌐 Portfolio
+## Contact
 
-🔗 **https://portfolio-ivory-gamma-xs5vp4pxzi.vercel.app/**
-
----
-
-## 📫 Connect
-
-- **Email:** vasaladaksh5@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/daksh-vasala
+vasaladaksh5@gmail.com
