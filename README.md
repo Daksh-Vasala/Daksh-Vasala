@@ -18,21 +18,13 @@ Building secure, scalable web applications with React, Node.js, and PostgreSQL/M
 
 ## About
 
-Final-year Computer Engineering student who enjoys working across the whole stack: database design, REST APIs, authentication, and clean, responsive UIs.
+Computer Engineer graduate student who enjoys working across the whole stack: database design, REST APIs, authentication, and clean, responsive UIs.
 
 **Open to:** Full Stack, Backend, and SDE-1 roles.
 
 ---
 
 ## Featured Projects
-
-### [Career Pilot](https://github.com/Daksh-Vasala/career-pilot)
-<!-- TODO: one-line pitch, e.g. what problem it solves and what the AI does -->
-- <!-- TODO: key AI feature -->
-- <!-- TODO: key product feature -->
-- <!-- TODO: auth / data layer -->
-
-`<!-- TODO: stack -->` · [Live Demo](<!-- TODO: link -->)
 
 ### [Stayora](https://github.com/Daksh-Vasala/Stayora)
 Multi-role rental platform for Guests, Hosts, and Admins with a full reservation lifecycle.
