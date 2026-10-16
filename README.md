@@ -4,11 +4,12 @@
 
 ### Full Stack Developer
 
-Building secure, scalable web applications with React, Node.js, and PostgreSQL/MongoDB.
+Building web applications with Next.js, React, Node.js, and PostgreSQL.
 
 <p>
 <a href="https://portfolio-ivory-gamma-xs5vp4pxzi.vercel.app/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/daksh-vasala/">LinkedIn</a> •
+<a href="https://leetcode.com/u/Daksh_10/">LeetCode</a> •
 <a href="mailto:vasaladaksh5@gmail.com">Email</a>
 </p>
 
@@ -18,13 +19,21 @@ Building secure, scalable web applications with React, Node.js, and PostgreSQL/M
 
 ## About
 
-Computer Engineer graduate student who enjoys working across the whole stack: database design, REST APIs, authentication, and clean, responsive UIs.
+Computer Engineering graduate who enjoys working across the whole stack: database design, REST APIs, authentication, and clean, responsive UIs.
 
 **Open to:** Full Stack, Backend, and SDE-1 roles.
 
 ---
 
 ## Featured Projects
+
+### [CareerPilot](https://github.com/Daksh-Vasala/CareerPilot)
+AI-powered career management platform for organizing applications and interviews.
+- AI resume analysis and career roadmaps using the Gemini API
+- Job application and interview tracking with a dashboard
+- JWT authentication, profile management, and dark mode
+
+`Next.js` `TypeScript` `Tailwind CSS` `Express` `Drizzle ORM` `PostgreSQL` · [Live Demo](https://career-pilot-psi-two.vercel.app/)
 
 ### [Stayora](https://github.com/Daksh-Vasala/Stayora)
 Multi-role rental platform for Guests, Hosts, and Admins with a full reservation lifecycle.
@@ -47,11 +56,5 @@ Full-stack e-commerce platform covering the complete purchase flow.
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,postgres,ts,js,tailwind,git,github,postman&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,postgres,mongodb,tailwind,git,postman&perline=6"/>
 </p>
-
----
-
-## Contact
-
-vasaladaksh5@gmail.com
